@@ -1,4 +1,4 @@
-# Programa em Python para cálculo de IMC e classificação
+# Cálculo de IMC e classificação
 
 def calcular_imc(peso, altura):
     return peso / (altura ** 2)
